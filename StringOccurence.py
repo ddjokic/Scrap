@@ -11,3 +11,4 @@ for broj in range (1, nos+1):
 	cnt=str.count(string)
 	print ("%r : %r") %(string, cnt)
 print ("Done!")
+fn.close()
