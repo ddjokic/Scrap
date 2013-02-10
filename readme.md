@@ -5,5 +5,6 @@ No any warranties!!!</p>
 **pypackages.py** - list all python packages installed. Modified from [Clark's Techblog](http://www.libertypages.com/clarktech/?p=3571) </p> 
 **update_all_ei.py** - update all Easy-Install Python Eggs. Downloaded from [here](http://www.snipplr.com/view.php?codeview&id=56085)</p>
 **pyrename.py** - rename all files in folder by given prefix and timestamp, keeping extension of original file</p>
-**stamp.py** - adding date and time stamp to filename</p>
+**stamp.py** - adding date and time stamp when file was created to filename</p>
+**polygon_area** - calculating area of polygon using ["Shoelace" formula](http://en.wikipedia.org/wiki/Shoelace_formula). Corners must be ordered in Clockwise or Counter-Clockwise direction. </p>
 **picrotate.sh** - rotate pictures to "Orientation 1", using "exiftool". 
