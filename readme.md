@@ -7,4 +7,5 @@ No any warranties!!!</p>
 **pyrename.py** - rename all files in folder by given prefix and timestamp, keeping extension of original file</p>
 **stamp.py** - adding date and time stamp when file was created to filename</p>
 **polygon_area** - calculating area of polygon using ["Shoelace" formula](http://en.wikipedia.org/wiki/Shoelace_formula). Corners must be ordered in Clockwise or Counter-Clockwise direction. </p>
-**picrotate.sh** - rotate pictures to "Orientation 1", using "exiftool". 
+**picrotate.sh** - rotate pictures to "Orientation 1", using "exiftool". </p>
+**srchtxt.py** - searching text file for specified phrase. Copied from net.</p>
