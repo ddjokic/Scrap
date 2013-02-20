@@ -9,4 +9,5 @@ No any warranties!!!</p>
 **polygon_area** - calculating area of polygon using ["Shoelace" formula](http://en.wikipedia.org/wiki/Shoelace_formula). Corners must be ordered in Clockwise or Counter-Clockwise direction. </p>
 **picrotate.sh** - rotate pictures to "Orientation 1", using "exiftool". </p>
 **srchtxt.py** - searching text file for specified phrase. Copied from net.</p>
-**exif_rename.py** - rename photos in folder, with given textual prefix and datetime. Using PIL. Modified original - see comments inside script for credits. 
+**exif_rename.py** - rename photos in folder, with given textual prefix and datetime. Using PIL. Modified original - see comments inside script for credits.</p>
+**srchtxtdir.py** - search all "txt" or "md" files in given folder for string occurrence.</p>
