@@ -11,3 +11,4 @@ No any warranties!!!</p>
 **srchtxt.py** - searching text file for specified phrase. Copied from net.</p>
 **exif_rename.py** - rename photos in folder, with given textual prefix and datetime. Using PIL. Modified original - see comments inside script for credits.</p>
 **srchtxtdir.py** - search all "txt" or "md" files in given folder for string occurrence.</p>
+**filelist.py** - list all files in given directory. File list is written in file "000-files_list.txt" in same directory.</p>
