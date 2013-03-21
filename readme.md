@@ -13,3 +13,4 @@ No any warranties!!!</p>
 **srchtxtdir.py** - search all "txt" or "md" files in given folder for string occurrence.</p>
 **filelist.py** - list all files in given directory. File list is written in file "000-files_list.txt" in same directory.</p>
 **rot13.py** - ROT13 text conversion - shamelessly copied from [here](http://www.leancrew.com/all-this/)</p>
+**chfile_extension.py** - changes specified extension of all files in a folder</p>
