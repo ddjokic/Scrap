@@ -14,3 +14,4 @@ No any warranties!!!</p>
 **filelist.py** - list all files in given directory. File list is written in file "000-files_list.txt" in same directory.</p>
 **rot13.py** - ROT13 text conversion - shamelessly copied from [here](http://www.leancrew.com/all-this/)</p>
 **chfile_extension.py** - changes specified extension of all files in a folder</p>
+**img_res_ren.py** - resize and rename image or all images in folder as per exif data, given prefix and given "bigger" dimension of the image keep aspect ratio. Not carefully tested.
