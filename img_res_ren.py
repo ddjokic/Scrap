@@ -66,7 +66,7 @@ else:
 			
 	count = len(imgfiles)
 	print(count)
-	for fnm in range(0, count-1):
+	for fnm in range(0, count):
 		extension = os.path.splitext(file)[1].lower()
 		get_exif (imgfiles[fnm], size, prefix, extension)
 		
