@@ -15,3 +15,4 @@ No any warranties!!!</p>
 **rot13.py** - ROT13 text conversion - shamelessly copied from [here](http://www.leancrew.com/all-this/)</p>
 **chfile_extension.py** - changes specified extension of all files in a folder</p>
 **img_res_ren.py** - resize and rename image or all images in folder as per exif data, given prefix and given "bigger" dimension of the image keep aspect ratio. Not carefully tested.
+**dfeed.py** - copied from [Dr.Drang's script](http://leancrew.com/all-this/2015/12/homemade-rss-aggregator-followup/). Lot of hard-coded paths. Code which I added is easy to recognize - it is ugly, but it works for me.
